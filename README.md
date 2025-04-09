@@ -32,4 +32,4 @@ This project aims to predict the best possible 15-player squad for a Fantasy Pre
 1. Clone the repository:
    ```bash
   git clone https://github.com/your-username/fantasy-fpl-team-selector.git
-  cd fpl-team-selector
+  cd fpl-team-selection
